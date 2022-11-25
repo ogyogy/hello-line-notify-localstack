@@ -8,7 +8,7 @@
 - [Docker](https://www.docker.com/)
 - [LocalStack](https://localstack.cloud/)
 - [AWS CLI v2](https://docs.aws.amazon.com/ja_jp/cli/latest/userguide/getting-started-install.html)
-- [awscli-local](https://github.com/localstack/awscli-local)
+- [awslocal](https://github.com/localstack/awscli-local)
 - `zip` コマンド
 
 動作確認は Ubuntu 22.04.1 LTS on WSL 2 で行っている。
