@@ -1,7 +1,7 @@
 {
 	// https://containers.dev/implementors/json_reference/
 	// A name for the dev container displayed in the UI.
-	"name": "Python 3",
+	"name": "Python 3 & awslocal",
 	"build": {
 		// Required when using a Dockerfile.
 		"dockerfile": "Dockerfile"
